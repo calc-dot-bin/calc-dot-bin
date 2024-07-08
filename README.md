@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is calc and I'm a 19 year old Hacker from Russia</h2>
+<h2 align="left">Hi 👋! My name is calc and I'm a 19 year old Cybersecurity Enthusiast from Kaliningrad , Russia</h2>
 
 ###
 
