@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/2oMIZKY.jpeg"  />
+<img align="right" height="150" src="https://github.com/calc-dot-bin/calc-dot-bin/blob/main/5d8e4fb3435255e128de640eed311463.jpg?raw=true"  />
 
 ###
 
